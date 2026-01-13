@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="avatar.jpg" alt="Bright Arafat Bello — portrait" width="400" style="border-radius:50%; border:4px solid rgba(0,0,0,0.06)" />
+  <img src="avatar.jpg" alt="Bright Arafat Bello — portrait" width="380" style="border-radius:50%; border:4px solid rgba(0,0,0,0.06)" />
 </p>
 
 <h1 align="center">Bright Arafat Bello</h1>
 
 <p align="center">
-  <em>Data Scientist • Student of Quant Finance & Actuarial Science</em>
+  <em>Data Scientist • Quant Finance • Actuarial Science</em>
 </p>
 
 <p align="center">
