@@ -32,19 +32,10 @@ I build data-driven solutions and explore quantitative finance and actuarial sci
 
 ---
 
-## 📊 GitHub activity & animated stat cards
-
-<p align="center">
-  <!-- Animated / auto-updating stat cards -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bbarafat&theme=radical" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bbarafat&show_icons=true&count_private=true&theme=radical" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbarafat&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📫 Contact
 
+- email: brightbello04@gmail.com
+- twitter: https://x.com/BelloBright2
 - Portfolio: https://bbarafat.github.io  
 - LinkedIn: https://www.linkedin.com/in/bello-arafat/
 
